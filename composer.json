@@ -1,0 +1,12 @@
+{
+    "name": "root/twitter-geo-feeds",
+    "authors": [
+        {
+            "name": "Niraj Maharjan",
+            "email": "neerooze@gmail.com"
+        }
+    ],
+    "require": {
+    	 "j7mbo/twitter-api-php": "dev-master"
+    }
+}
